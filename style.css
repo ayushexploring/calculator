@@ -1,0 +1,214 @@
+#main{
+	height: 690px;
+	width: 626px;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	line-height: 108px;
+	background-color: 0288D1;
+	border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border: ridge;
+}
+#display{
+	height: 150px;
+	width: 600px;
+	background-color: grey;
+	font-size: 50px;
+	margin: 16px;
+    border: ridge;
+	border-radius: inherit;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#one{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#two{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#three{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#four{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#five{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#six{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#seven{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#eight{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#nine{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#zero{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#add{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#subtract{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#multiply{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#divide{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#equals{
+	height: 100px;
+    width: 230px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#decimal{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#percent{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#clear{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#sqrt{
+	height: 100px;
+    width: 100px;
+    background-color: 90A4AE;
+    font-size: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
