@@ -1,4 +1,4 @@
-#main{
+#calc-body{
 	height: 690px;
 	width: 626px;
 	display: flex;
@@ -11,16 +11,22 @@
     border-top-right-radius: 10px;
     border: ridge;
 }
+@font-face{
+    font-family:'digital-clock-font';
+    src: url('digital-7/digital-7.ttf');
+}
 #display{
 	height: 150px;
 	width: 600px;
 	background-color: grey;
-	font-size: 50px;
+	font-size: 60px;
 	margin: 16px;
     border: ridge;
 	border-radius: inherit;
     border-bottom-left-radius: 10px;
     border-top-right-radius: 10px;
+    font-family:'digital-clock-font';
+
 }
 #one{
 	height: 100px;
