@@ -1,4 +1,3 @@
-console.log('script loaded');
 function calculate(string){
 	document.querySelector("#display").innerHTML = eval(string);
 }
